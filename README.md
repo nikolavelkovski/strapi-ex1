@@ -1,0 +1,3 @@
+# strapi-ex1
+
+THIS ITS EXERCISES FOR STRAPI
